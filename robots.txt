@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aricaria.github.io/aricaria.txt.gz
+Sitemap: https://aricaria.github.io/app/aricaria.txt.gz
+Sitemap: https://aricaria.github.io/assets/aricaria.txt.gz
+Sitemap: https://aricaria.github.io/css/aricaria.txt.gz
+Sitemap: https://aricaria.github.io/includes/aricaria.txt.gz
+Sitemap: https://aricaria.github.io/item/aricaria.txt.gz
+Sitemap: https://aricaria.github.io/src/aricaria.txt.gz
